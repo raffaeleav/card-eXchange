@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/raffaeleav/card-exchange/assets/114619463/0e955bc1-673b-49be-aa26-eef3be846388" width="512" heigth="120">
+  <img src="https://github.com/user-attachments/assets/c3f68370-e555-44b3-918b-bc688a95142f" width="512" heigth="120">
 </p>
+
 
 <p align="center">
   An e-commerce platform developed as a project for the Ingegneria del Software (Software Engineering) course, part of the 
